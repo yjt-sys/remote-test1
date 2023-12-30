@@ -1,13 +1,6 @@
 hello git!
 git
 git
-git
-git
-git
-git
-git
-git
-hello
 :wq6666666666
 666666
 777777
