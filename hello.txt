@@ -8,4 +8,5 @@ git
 git
 git
 hello
-:wq
+:wq6666666666
+666666
